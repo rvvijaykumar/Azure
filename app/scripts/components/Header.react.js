@@ -16,7 +16,7 @@ class Header {
 			<h1>Todos</h1>
 			<TodoTextInput
 			  id="new-todo"
-			  placeholder="What needs to be done?"
+			  placeholder="What to be done?"
 			  onSave={this._onSave} />
 			</header>
 		)
